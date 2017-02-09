@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestingAPI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <declare-styleable name="customfont">
+        <attr name="android:fontFamily" />
+        <attr name="android:textStyle" />
+    </declare-styleable>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
